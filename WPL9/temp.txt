@@ -1,0 +1,34 @@
+RR score in powerplay:
+RR Powe playr players: 
+1. past average: balls faced runs scored -> in general, 1.2 against CSK
+2. balls faced runscored regression 
+
+3. CSK bowlers(individually) in power play : Economy rate, balls ceased: calculate runs probable
+4. RR batsmen bs CSK bowlers: average + regressio
+5. CSK bowlers against RR batsmen in power play : Economy rate, balls ceased: calculate runs probable
+
+Deepak chahars economy rate
+Add plotly radar for this
+1. in general Deepak chahar's economy rate: powerplay, mid and death separate
+2. against CSK batsmen: : powerplay, mid and death separate
+4. combinations left-handed batsmen economy in general, right handed economy in general
+5. find out which all are right or left handed batsmen in CSK: compare with them
+6. run a balls faced to runs conceded* regression : : powerplay, mid and death separate
+7. add average number of balls faced by CSK batsmen , and also add balls faced against Deepak chahar and predict output
+8. create a last table by calculating economy rate baesed on balls and runs
+
+J Archer wickets in death
+1. in general
+2. against CSK batsmen 
+3. Against left and right handed batsmen in death
+4. run priori for death over with j archer for assoc
+
+Steve smith's strike rate in the match
+1. in general strike rate
+2. against bowlers individually
+3. find out balls faced and runs scored run a regression on this
+
+Who will win?
+batsmen strike rates and bowler economues against each other justify based on combinations in power mid and death
+1. CSK VS RR
+2. RR VS CSK
